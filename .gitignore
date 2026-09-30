@@ -1,0 +1,9 @@
+__pycache__/
+.env
+# videos y resultados
+*.mp4
+*.mov
+*.mkv
+*.webm
+cortes.json
+!ejemplo_cortes.json

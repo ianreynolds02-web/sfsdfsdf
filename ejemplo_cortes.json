@@ -1,0 +1,6 @@
+{
+  "cortes": [
+    { "inicio": "00:00:02.000", "fin": "00:00:05.500", "motivo": "intro clara" },
+    { "inicio": "00:00:08", "fin": "00:00:12", "motivo": "punto principal" }
+  ]
+}
